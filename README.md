@@ -1,12 +1,10 @@
 # Challenge 6 - What's the Weather Like?
 
-## WeatherPy Analysis - Python - API
-
-Analysis
+## WeatherPy Analysis
 
 The data extracted from the OpenWeather database supports the universal and scientific truth of zero degrees latitude and weather. As shown in one of the analyses (output 1), we can see that the weather gradually becomes warmer as it approaches toward the zero degree latitude (the equator). And interestingly enough, some of the most aridity and dry cities were recorded closer to the equtor (output 2). The analysis from output 3 and 4 shows that there is no strong relationship between city latitude and cloudiness as well as city latitude and wind speed, albeit we notice some cities with over 20mph of wind across all latitude.
 
-## Background
+# Background
 
 Whether financial, political, or social -- data's true power lies in its ability to answer questions definitively. So let's take what you've learned about Python requests, APIs, and JSON traversals to answer a fundamental question: "What's the weather like as we approach the equator?"
 
